@@ -1,0 +1,5 @@
+/* styles.css */
+.text-area .scroll-pane .scroll-bar {
+    -fx-base: #808080; /* Track color */
+    -fx-thumb: #FFD166; /* Thumb color */
+}
